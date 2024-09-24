@@ -1,5 +1,6 @@
 Dashboard Link here- [sales_dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRiZGJlYWUtN2I2YS00ZmNmLTgyOGYtZmQ1ZTkzMjg3YzMwIiwidCI6ImQ1MTFhNzlhLTI4MzgtNDlmZS04MDJjLWVhYjhjNzk4NjBjZSJ9&pageName=4ef77cef8202e006d033)
 
+![Screeshot Dashboard](ChoclateSales_dashboard.png)
 
 🚀 Key Insights from the Awesome Chocolates Dashboard! 🍫📊
 
